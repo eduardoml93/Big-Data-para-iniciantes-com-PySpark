@@ -1,7 +1,7 @@
 # Big-Data-para-iniciantes-com-PySpark
 
 Aula na FLAI sobre Big Data e tratamento de Dados com PySpark.
-Link: https://www.youtube.com/watch?v=qRcvcNQHA3U&ab_channel=CanalFLAI
+
 
 "Chegou o momento de você se diferenciar no mercado 
 aprendendo a principal ferramenta de Data Science no mundo de Big Data. 
